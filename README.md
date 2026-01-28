@@ -16,7 +16,7 @@ In the work, time is represented as a continuous and steady visual flow that pro
 Rather than measuring time objectively, the piece focuses on time as something shaped by attention, emotion, and interaction. By linking sound to changes in visual density and movement, the work aims to make subjective time visible—how intensity can feel shorter, while quieter moments feel longer.
 
 
-##Technology Used
+## Technology Used
 My project comprises three interconnected modules integrating time-based animation, sound input analysis, and live camera capture, all operating within a single real-time loop that responds dynamically to audience interaction.
 Module 1: 60-Second Time Waveform 
 The system begins with a 60-second cycle representing the steady, continuous flow of everyday time. Using millis(), progress is normalized and mapped via lerp() to control a waveform moving from the bottom to the top of the canvas. Unlike earlier sine- and cosine-based exercises, this linear mapping emphasises duration and irreversible flow rather than cyclical repetition. The waveform is generated with beginShape() and vertex(), with subtle irregularity introduced through simplified frequency spectrum data from p5.FFT, giving visual variation without detailed audio analysis.
