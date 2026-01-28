@@ -1,5 +1,5 @@
 # Time-When-It-Gets-Loud
-By Xu Chenchen
+**By Xu Chenchen**
  An interactive audiovisual work that within a regular temporal mechanism, visualises how subjective time stretches during silence and compresses during moments of social and emotional intensity.
 
 ## Short Description
@@ -7,7 +7,8 @@ Time, When It Gets Loud** is an interactive computational artwork that explores 
 Designed for full-screen viewing on a laptop or as a projected installation, the work uses the computer’s built-in webcam and microphone so the audience can activate it through presence and voice.
 
 
-## Concept This project explores how time is experienced differently in quiet, everyday moments and in moments of emotional or social intensity. When time is wholly our own (walking alone, reading), it can feel slow and stretched; moments shared with others (laughter, excitement, social noise) often feel compressed and fleeting.
+## Concept 
+This project explores how time is experienced differently in quiet, everyday moments and in moments of emotional or social intensity. When time is wholly our own (walking alone, reading), it can feel slow and stretched; moments shared with others (laughter, excitement, social noise) often feel compressed and fleeting.
 
 In the work, time is represented as a continuous and steady visual flow that progresses over a fixed duration. Sound acts as an interruption to this flow. When sound is present, more visual elements appear: text fragments are generated more frequently, fall faster, and accumulate on the screen. When the environment becomes quiet again, these elements gradually disappear.
 
