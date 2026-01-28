@@ -1,9 +1,10 @@
 # Time-When-It-Gets-Loud
 By Xu Chenchen
+
  An interactive audiovisual work that within a regular temporal mechanism, visualises how subjective time stretches during silence and compresses during moments of social and emotional intensity.
 
 ## Short Description
-Time, When It Gets Loud** is an interactive computational artwork that explores how time is perceived differently during moments of quiet routine and moments of emotional or social intensity. The work visualises time as a continuous, steady flow, while allowing sound—such as speech, laughter, or noise—to interrupt and reshape this flow.
+Time, When It Gets Loud is an interactive computational artwork that explores how time is perceived differently during moments of quiet routine and moments of emotional or social intensity. The work visualises time as a continuous, steady flow, while allowing sound—such as speech, laughter, or noise—to interrupt and reshape this flow.
 Designed for full-screen viewing on a laptop or as a projected installation, the work uses the computer’s built-in webcam and microphone so the audience can activate it through presence and voice.
 
 
@@ -29,18 +30,29 @@ Webcam input is achieved via createCapture(VIDEO), a method introduced in class 
 
 
 ## How to Run / Install
-*Step-by-step instructions.*
+1.Download or clone the project folder.
+2.Open the folder in a local server environment 
+3.use VS Code + Live Server extension.
+4.Run index.html via Live Server.
+5.Interact with the work through sound (voice, typing, footsteps) and movement.
 
 ## Requirements
-*Tech stack, browser, OS, libs.*
-
-## Screenshots / Media
-*Include in-action visuals.*
+Browser
+Libraries:
+p5.js
+p5.sound.js
+Hardware：
+Microphone 
+Webcam 
 
 ## Credits / Acknowledgements
-*Who made it, references.*
-##License
-*What license is it made under, if any?* 
+Project & Code: Chenchen Xu
+Framework: p5.js
+Sound Analysis: p5.sound library
+Conceptual References:
+Henri Bergson, Time and Free Will (1911)
+United Visual Artists, Our Time (2016)
+UFO Media Lab, Time Pasture X
 
 ## Contact / Links
-*GitHub repo link, website, demo URL.*
+Video link：https://vimeo.com/1153423795?share=copy&fl=sv&fe=ci
