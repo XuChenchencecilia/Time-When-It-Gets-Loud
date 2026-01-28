@@ -1,5 +1,5 @@
 # Time-When-It-Gets-Loud
-**By Xu Chenchen**
+By Xu Chenchen
  An interactive audiovisual work that within a regular temporal mechanism, visualises how subjective time stretches during silence and compresses during moments of social and emotional intensity.
 
 ## Short Description
